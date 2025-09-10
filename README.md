@@ -1,4 +1,4 @@
-# Optional Challenge: Snack Tracker
+# Challenge 1: Snack Tracker
 
 Students are carrying snacks in their backpacks. Each line of an input file is an integer representing the number of calories in their snack. Blank lines separate students. Read in the file and find the largest total calories that a student is carrying. 
 
