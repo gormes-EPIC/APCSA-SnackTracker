@@ -1,0 +1,126 @@
+[1518-11-01 00:00] Guard #23 begins shift
+[1518-11-01 00:55] falls asleep
+[1518-11-01 01:04] wakes up
+[1518-11-01 01:23] falls asleep
+[1518-11-01 01:36] wakes up
+[1518-11-02 00:00] Guard #56 begins shift
+[1518-11-02 00:56] falls asleep
+[1518-11-02 01:19] wakes up
+[1518-11-02 01:36] falls asleep
+[1518-11-02 01:46] wakes up
+[1518-11-03 00:00] Guard #10 begins shift
+[1518-11-03 00:47] falls asleep
+[1518-11-03 01:14] wakes up
+[1518-11-04 00:00] Guard #56 begins shift
+[1518-11-04 00:39] falls asleep
+[1518-11-04 00:56] wakes up
+[1518-11-04 01:16] falls asleep
+[1518-11-04 01:41] wakes up
+[1518-11-04 01:58] falls asleep
+[1518-11-04 02:11] wakes up
+[1518-11-05 00:00] Guard #10 begins shift
+[1518-11-05 00:48] falls asleep
+[1518-11-05 00:53] wakes up
+[1518-11-06 00:00] Guard #42 begins shift
+[1518-11-06 00:51] falls asleep
+[1518-11-06 01:03] wakes up
+[1518-11-06 01:08] falls asleep
+[1518-11-06 01:31] wakes up
+[1518-11-07 00:00] Guard #10 begins shift
+[1518-11-07 00:44] falls asleep
+[1518-11-07 01:03] wakes up
+[1518-11-07 01:09] falls asleep
+[1518-11-07 01:32] wakes up
+[1518-11-07 01:42] falls asleep
+[1518-11-07 01:52] wakes up
+[1518-11-08 00:00] Guard #23 begins shift
+[1518-11-08 01:00] falls asleep
+[1518-11-08 01:13] wakes up
+[1518-11-09 00:00] Guard #23 begins shift
+[1518-11-09 00:39] falls asleep
+[1518-11-09 01:07] wakes up
+[1518-11-09 01:20] falls asleep
+[1518-11-09 01:37] wakes up
+[1518-11-10 00:00] Guard #10 begins shift
+[1518-11-10 00:53] falls asleep
+[1518-11-10 01:07] wakes up
+[1518-11-10 01:26] falls asleep
+[1518-11-10 01:36] wakes up
+[1518-11-11 00:00] Guard #23 begins shift
+[1518-11-11 00:38] falls asleep
+[1518-11-11 00:57] wakes up
+[1518-11-11 01:05] falls asleep
+[1518-11-11 01:27] wakes up
+[1518-11-12 00:00] Guard #23 begins shift
+[1518-11-12 00:44] falls asleep
+[1518-11-12 00:50] wakes up
+[1518-11-12 01:00] falls asleep
+[1518-11-12 01:16] wakes up
+[1518-11-12 01:21] falls asleep
+[1518-11-12 01:45] wakes up
+[1518-11-13 00:00] Guard #99 begins shift
+[1518-11-13 00:40] falls asleep
+[1518-11-13 01:06] wakes up
+[1518-11-14 00:00] Guard #23 begins shift
+[1518-11-14 00:50] falls asleep
+[1518-11-14 01:20] wakes up
+[1518-11-14 01:39] falls asleep
+[1518-11-14 01:53] wakes up
+[1518-11-15 00:00] Guard #23 begins shift
+[1518-11-15 00:30] falls asleep
+[1518-11-15 00:47] wakes up
+[1518-11-15 00:54] falls asleep
+[1518-11-15 01:16] wakes up
+[1518-11-16 00:00] Guard #23 begins shift
+[1518-11-16 00:37] falls asleep
+[1518-11-16 00:58] wakes up
+[1518-11-17 00:00] Guard #99 begins shift
+[1518-11-17 00:31] falls asleep
+[1518-11-17 01:00] wakes up
+[1518-11-18 00:00] Guard #42 begins shift
+[1518-11-18 00:58] falls asleep
+[1518-11-18 01:24] wakes up
+[1518-11-18 01:33] falls asleep
+[1518-11-18 01:49] wakes up
+[1518-11-19 00:00] Guard #10 begins shift
+[1518-11-19 00:44] falls asleep
+[1518-11-19 01:01] wakes up
+[1518-11-19 01:16] falls asleep
+[1518-11-19 01:44] wakes up
+[1518-11-20 00:00] Guard #23 begins shift
+[1518-11-20 01:00] falls asleep
+[1518-11-20 01:26] wakes up
+[1518-11-20 01:40] falls asleep
+[1518-11-20 01:51] wakes up
+[1518-11-20 02:02] falls asleep
+[1518-11-20 02:29] wakes up
+[1518-11-21 00:00] Guard #10 begins shift
+[1518-11-21 00:46] falls asleep
+[1518-11-21 01:15] wakes up
+[1518-11-21 01:32] falls asleep
+[1518-11-21 01:45] wakes up
+[1518-11-21 01:58] falls asleep
+[1518-11-21 02:06] wakes up
+[1518-11-22 00:00] Guard #99 begins shift
+[1518-11-22 00:36] falls asleep
+[1518-11-22 00:55] wakes up
+[1518-11-23 00:00] Guard #56 begins shift
+[1518-11-23 00:42] falls asleep
+[1518-11-23 01:09] wakes up
+[1518-11-23 01:19] falls asleep
+[1518-11-23 01:34] wakes up
+[1518-11-23 01:53] falls asleep
+[1518-11-23 02:02] wakes up
+[1518-11-24 00:00] Guard #99 begins shift
+[1518-11-24 00:32] falls asleep
+[1518-11-24 00:55] wakes up
+[1518-11-25 00:00] Guard #56 begins shift
+[1518-11-25 00:38] falls asleep
+[1518-11-25 00:58] wakes up
+[1518-11-26 00:00] Guard #23 begins shift
+[1518-11-26 00:41] falls asleep
+[1518-11-26 00:50] wakes up
+[1518-11-26 01:09] falls asleep
+[1518-11-26 01:21] wakes up
+[1518-11-26 01:32] falls asleep
+[1518-11-26 02:00] wakes up
